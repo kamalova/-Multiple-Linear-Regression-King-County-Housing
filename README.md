@@ -4,7 +4,7 @@
 
 
 
-# Multiple Regression Analysis of House Sales Data in King County, Washington
+## Multiple Regression Analysis of House Sales Data in King County, WA USA
 
 **Author** Nurgul Kurbanali kyzy
 
