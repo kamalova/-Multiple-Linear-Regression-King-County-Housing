@@ -1,6 +1,6 @@
 
 
-![banner](http://localhost:8888/view/images/banner.jpg)
+![banner]https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/banner.jpg)
 
 
 
