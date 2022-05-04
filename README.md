@@ -5,11 +5,11 @@
 
 
 ## Multiple Linear Regression Analysis of King County Housing 
-**Author** Nurgul Kurbanali kyzy
+**Author:** Nurgul Kurbanali kyzy
 
 ### Project Overview
 
-We will use multiple linear regression modeling for inference to study the relationship between the price and other variables present in the dataset between 20112-2105, with the hope of helping potential home seller understand the King County housing market. Thus great emphasis will be given to the coefficients of features as opposed to the overall accuracy of the model.
+We will use multiple linear regression modeling for inference to study the relationship between the price and other variables present in the dataset between 2014-2105, with the hope of helping potential home seller understand the King County housing market. Thus great emphasis will be given to the coefficients of features as opposed to the overall accuracy of the model.
 
 ### Business Problem
 
