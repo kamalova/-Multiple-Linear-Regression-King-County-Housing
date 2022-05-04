@@ -27,11 +27,11 @@ We started with inspecting, and cleaning the datasets from outliers following by
 ### Results
 
 ### For More Information
-Full analysis can be reviewed in the [Jupyter Notebook](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/notebook.ipynb) or in the  [presentation]() <p> 
-For any additional questions, please contact:
-  - Nurgul Kurbanali kyzy at nurkamalova@gmail.com
+Full analysis can be reviewed in the [Jupyter Notebook](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/notebook.ipynb) or   [presentation]() <p> 
+- For any additional questions, please contact:
+  Nurgul Kurbanali kyzy at nurkamalova@gmail.com
   
- ## Repository Structure
+ ### Repository Structure
   
 
 
