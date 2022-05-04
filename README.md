@@ -4,21 +4,20 @@
 
 
 
-## Multiple Regression Analysis of House Sales Data in King County, WA USA
-
+## Multiple Linear Regression Analysis of King County Housing 
 **Author** Nurgul Kurbanali kyzy
 
 ### Project Overview
 
-We will use multiple linear regression modeling for inference to study the relationship between the price and other variables present in the dataset between 20112-2105, with the hope of helping potential home buyers/seller understand the King County housing market. Thus great emphasis will be given to the coefficients of features as opposed to the overall accuracy of the model.
+We will use multiple linear regression modeling for inference to study the relationship between the price and other variables present in the dataset between 20112-2105, with the hope of helping potential home seller understand the King County housing market. Thus great emphasis will be given to the coefficients of features as opposed to the overall accuracy of the model.
 
 ### Business Problem
 
-The stakeholders of this project are a real estate agency that helps homeowners buy and/or sell homes. The business problem is to provide advice to homeowners on which aspects of the house features they should invest in, in order to increase the estimated values of their homes, and by what amount.
+The stakeholders of this project are a real estate agency that helps homeowners sell homes. The business problem is to provide advice to homeowners on which aspects of the house features they should invest in, in order to increase the estimated values of their homes, and by what amount.
 
 ### Data Understanding
 
-The dataset includes 21 assessment parameters which describes every aspect of homes in King County. These variables focus on the quality and quantity of the physical attributes of a property. The dataset and variable descriptions can be found on [here](http://localhost:8888/edit/data/column_names.md)
+The dataset includes 21 assessment parameters which describes every aspect of homes in King County. These variables focus on the quality and quantity of the physical attributes of a property. The dataset and variable descriptions can be found on [here](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/data/column_names.md)
 
 ### Methods
 
@@ -26,6 +25,7 @@ We started with inspecting, and cleaning the datasets from outliers following by
 
 
 ### Results
+
 
 
 
