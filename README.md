@@ -21,7 +21,7 @@ The dataset includes 21 assessment parameters which describes every aspect of ho
 
 ### Methods
 
-We started with inspecting, and cleaning the datasets from outliers following by checking for the completeness of data and missing values. Further conducted Exploratory Data Analysis (EDA) and  removed nonimportant features based on EDA. Then built multiple linear regression models to determine our strongest correlations, and used an iterative approach to our model-building. We evaluated each model  by checking multicollinearity among different features and then returned to the data to see what could to be changed, or removed to achieve a more successful model. 
+We started with inspecting, and cleaning the datasets from outliers following by checking for the completeness of data and missing values. Further conducted Exploratory Data Analysis (EDA) and  removed nonimportant features based on EDA. Then built multiple linear regression models to determine our strongest correlations. We evaluated each model  by checking multicollinearity among different features and then returned to the data to see what could to be changed, or removed to achieve a more successful model. 
 
 
 ### Results
