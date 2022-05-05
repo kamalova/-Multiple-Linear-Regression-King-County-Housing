@@ -34,7 +34,7 @@ Based on our analysis, we can give the following suggestions:<p>
 - The quality of the view is one of the most important things to assess when it comes to investing in a home with resale value. Homes with a partial view may be a good investment because often trimming a few trees or building addition will turn the view from partial to full. Keep in mind that a home with a partial view is still superior, in terms of resale value, to a home without a view at all. The best view you can ask for is panoramic, meaning that there is a wide, unobstructed view of an entire surrounding area. Whether this is offered from a living room window, or from an outside deck or patio it's a priceless accent to any home.
 - Increasing the square footage of the living area along with the square footage of the basement will also tend positively effects the price increase
  
- 
+ ### Future Considerations
 Based on the adjusted R-squared we got  more than 50% of the variance in housing prices cannot be explained by the selected principal components. Given that some of the variables needed to be log-transformed  and scaled to satisfy regression assumptions. Other models like logistic regression, decision trees can be constructed and compared by results. Future analysis should include other predictors such house locations, demographics , security of a neighborhood etc.
  
 ### For More Information
