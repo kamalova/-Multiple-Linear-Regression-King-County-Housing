@@ -25,10 +25,13 @@ We started with inspecting, and cleaning the datasets from outliers following by
 
 
 ### Results
-![final_feat](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/final_features.png)<p>
+ ![Model3_summary](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/Mode3_summary.png)
+An optimal final multople linear regression model was achieved by keeping the most influential predictors only. Thus grade, view, floor levels, square footage of the living area, and basement were found to be important features that drive the overall sale price of a house in King County. The coefficient of determination: R-squared is 0.546 meaning that  54% of the variance in the target variable can be explained by the features. All feature variables have p-values less than 0.05, meaning all these features are statistically significant and  there is no correlation between the independent and the dependent variables.<p>
+ Lets interpret the coefficients of final model individually:
  
+![grade_price](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/grade_price.png)<p>
  
-An optimal final multople linear regression model was achieved by keeping the most influential predictors only. Thus grade, view, floor levels, square footage of the living area, and basement were found to be important features that drive the overall sale price of a house in King County. Mean Squared Error, (MSE) of the final model was found to be small (11%) by applying validation set approach along with it's coefficient of determination: R-squared is 0.497 meaning that  49% of the variance in the target variable can be explained by the features. All feature variables have p-values less than 0.05, meaning all these features are statistically significant and  there is no correlation between the independent and the dependent variables.<p>
+
 #### Recommendations:
 Based on our analysis, we can give the following suggestions:<p>
 - Trying to get at least grade *8* which is an average in construction and design according to the King County Department of Assessment. It can be achieved by using better materials in both the exterior and interior finishes. As grade increases, the house price tends to be grow.
