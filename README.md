@@ -48,7 +48,7 @@ Based on our analysis, we can give the following suggestions:<p>
 - Increasing the square footage of the living area along with the square footage of the basement will also tend positively effects the price increase
  
  #### Future Considerations
-Based on the adjusted R-squared we got  more than 50% of the variance in housing prices cannot be explained by the selected principal components. Given that some of the variables needed to be log-transformed  and scaled to satisfy regression assumptions. Other models like logistic regression, decision trees can be constructed and compared by results. Future analysis should include other predictors such house locations, demographics , security of a neighborhood etc.
+Based on the adjusted R-squared we got  more than 45% of the variance in housing prices cannot be explained by the selected principal components. Given that some of the variables needed to be log-transformed  and scaled to satisfy regression assumptions. Other models like logistic regression, decision trees can be constructed and compared by results. Future analysis should include other predictors such house locations, demographics , security of a neighborhood etc.
  
 ### For More Information
 Full analysis can be reviewed in the [Jupyter Notebook](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/notebook.ipynb) or   [presentation](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/presentation.pdf) <p> 
