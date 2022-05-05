@@ -30,14 +30,14 @@ An optimal final multople linear regression model was achieved by keeping the mo
  Lets interpret the coefficients of final model individually:
  
 ![grade_price](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/grade_price.png)<p>
- One unit change in **Grade** can increase house price at 18.77% <p>
+ One unit change in #grade can increase house price at 18.77% <p>
 ![view_price](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/view_price.png)<p>
- One unit change in **View** can increase house price at 9.20%<p>
+ One unit change in #view can increase house price at 9.20%<p>
 ![floor_price](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/floor_price.png)<p>
- One unit change in floor(level) up to 2.5 increase house price at 4.64% <p>
+ One unit change in #floor(level) up to 2.5 increase house price at 4.64% <p>
  ![sqft_living_base_price](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/sqft_living_base_price.png)<p>
-One unit change in sqft_living can increase house price at 0.02%<p>
-One unit change in sqft_basement can increase house price at 0.01% <p>
+One unit change in #sqft_living can increase house price at 0.02%<p>
+One unit change in #sqft_basement can increase house price at 0.01% <p>
  
 
 #### Recommendations:
