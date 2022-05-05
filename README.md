@@ -34,7 +34,7 @@ An optimal final multople linear regression model was achieved by keeping the mo
 ![view_price](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/view_price.png)<p>
  One unit change in **View** can increase house price at 9.20%<p>
 ![floor_price](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/floor_price.png)<p>
- One unit change in floor(level) up to 2.5 increase house price at 4.64%
+ One unit change in floor(level) up to 2.5 increase house price at 4.64% <p>
  ![sqft_living_base_price](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/sqft_living_base_price.png)<p>
 One unit change in sqft_living can increase house price at 0.02%<p>
 One unit change in sqft_basement can increase house price at 0.01% <p>
@@ -44,6 +44,7 @@ One unit change in sqft_basement can increase house price at 0.01% <p>
 Based on our analysis, we can give the following suggestions:<p>
 - Trying to get at least grade *8* which is an average in construction and design according to the King County Department of Assessment. It can be achieved by using better materials in both the exterior and interior finishes. As grade increases, the house price tends to be grow.
 - The quality of the view is one of the most important things to assess when it comes to investing in a home with resale value. Homes with a partial view may be a good investment because often trimming a few trees or building addition will turn the view from partial to full. Keep in mind that a home with a partial view is still superior, in terms of resale value, to a home without a view at all. The best view you can ask for is panoramic, meaning that there is a wide, unobstructed view of an entire surrounding area. Whether this is offered from a living room window, or from an outside deck or patio it's a priceless accent to any home.
+- Most ideal and preferable house floor(level) is around 2.5 . Houses with floors(levels) between 3-3.5 are not desirable since prices getting  sharply decreasing
 - Increasing the square footage of the living area along with the square footage of the basement will also tend positively effects the price increase
  
  #### Future Considerations
