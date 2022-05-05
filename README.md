@@ -41,7 +41,7 @@ Based on the adjusted R-squared we got  more than 50% of the variance in housing
 ### For More Information
 Full analysis can be reviewed in the [Jupyter Notebook](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/notebook.ipynb) or   [presentation]() <p> 
 For any additional questions, please contact:<p>
- - Nurgul Kurbanali kyzy at nurkamalova@gmail.com
+ -- Nurgul Kurbanali kyzy at nurkamalova@gmail.com
   
  ### Repository Structure
   
