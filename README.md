@@ -25,7 +25,7 @@ We started with inspecting, and cleaning the datasets from outliers following by
 
 
 ### Results
-![final_feat]https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/final_features.png)<p>
+![final_feat](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/final_features.png)<p>
  
  
 An optimal final multople linear regression model was achieved by keeping the most influential predictors only. Thus grade, view, floor levels, square footage of the living area, and basement were found to be important features that drive the overall sale price of a house in King County. Mean Squared Error, (MSE) of the final model was found to be small (11%) by applying validation set approach along with it's coefficient of determination: R-squared is 0.497 meaning that  49% of the variance in the target variable can be explained by the features. All feature variables have p-values less than 0.05, meaning all these features are statistically significant.<p>
