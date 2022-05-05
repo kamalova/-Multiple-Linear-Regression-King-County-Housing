@@ -25,7 +25,7 @@ We started with inspecting, and cleaning the datasets from outliers following by
 
 
 ### Results
-(https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/target_feat_corr.png)
+[](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/images/target_feat_corr.png)
 ### For More Information
 Full analysis can be reviewed in the [Jupyter Notebook](https://github.com/kamalova/Multiple-Linear-Regression-King-County-Housing/blob/main/notebook.ipynb) or   [presentation]() <p> 
 For any additional questions, please contact:<p>
